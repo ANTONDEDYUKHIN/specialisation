@@ -1,0 +1,15 @@
+D:\Homework\conspect, seminar\08.specialisation\final_Task\bin\Debug\net6.0\final_Task.exe
+D:\Homework\conspect, seminar\08.specialisation\final_Task\bin\Debug\net6.0\final_Task.deps.json
+D:\Homework\conspect, seminar\08.specialisation\final_Task\bin\Debug\net6.0\final_Task.runtimeconfig.json
+D:\Homework\conspect, seminar\08.specialisation\final_Task\bin\Debug\net6.0\final_Task.dll
+D:\Homework\conspect, seminar\08.specialisation\final_Task\bin\Debug\net6.0\final_Task.pdb
+D:\Homework\conspect, seminar\08.specialisation\final_Task\obj\Debug\net6.0\final_Task.csproj.AssemblyReference.cache
+D:\Homework\conspect, seminar\08.specialisation\final_Task\obj\Debug\net6.0\final_Task.GeneratedMSBuildEditorConfig.editorconfig
+D:\Homework\conspect, seminar\08.specialisation\final_Task\obj\Debug\net6.0\final_Task.AssemblyInfoInputs.cache
+D:\Homework\conspect, seminar\08.specialisation\final_Task\obj\Debug\net6.0\final_Task.AssemblyInfo.cs
+D:\Homework\conspect, seminar\08.specialisation\final_Task\obj\Debug\net6.0\final_Task.csproj.CoreCompileInputs.cache
+D:\Homework\conspect, seminar\08.specialisation\final_Task\obj\Debug\net6.0\final_Task.dll
+D:\Homework\conspect, seminar\08.specialisation\final_Task\obj\Debug\net6.0\refint\final_Task.dll
+D:\Homework\conspect, seminar\08.specialisation\final_Task\obj\Debug\net6.0\final_Task.pdb
+D:\Homework\conspect, seminar\08.specialisation\final_Task\obj\Debug\net6.0\final_Task.genruntimeconfig.cache
+D:\Homework\conspect, seminar\08.specialisation\final_Task\obj\Debug\net6.0\ref\final_Task.dll
